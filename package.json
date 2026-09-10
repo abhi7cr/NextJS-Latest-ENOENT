@@ -11,11 +11,11 @@
     "build:prof": "node --prof --no-logfile-per-isolate node_modules/next/dist/bin/next build"
   },
   "dependencies": {
+    "@biomejs/biome": "latest",
+    "@omega/nextjs-adapter": "^0.0.0-hff43f1f4",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "swr": "^2.0.0",
-    "@biomejs/biome": "latest",
-    "@omega/nextjs-adapter": "latest"
+    "swr": "^2.0.0"
   }
 }
