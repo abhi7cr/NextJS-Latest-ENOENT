@@ -37,3 +37,5 @@ yarn-error.log*
 
 # On purpose to avoid pinning nextjs to a specific version
 package-lock.json
+
+.amplify
