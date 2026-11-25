@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  adapterPath: "@omega/nextjs-adapter",
+  adapterPath: "@aws-amplifygen3/adapter-nextjs",
   images: {
     remotePatterns: [
       {
