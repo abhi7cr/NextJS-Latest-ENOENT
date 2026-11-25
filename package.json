@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@biomejs/biome": "latest",
-    "@omega/nextjs-adapter": "^0.0.0-hff43f1f4",
+    "@aws-amplifygen3/adapter-nextjs": "1.*",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
